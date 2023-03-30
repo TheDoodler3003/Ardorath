@@ -39,10 +39,7 @@
 						"Additionally, when you use the Shadowstrike to take the Attack action, you can use a bonus action to cast the spell {@spell Teleport} without expending a spell slot. Once you use this feature, you cannot use it again until you complete a short or long rest."
 					]
 				}
-				],					
-			"attachedSpells": [
-				"Teleport"
-				]
-				}
-			],
+			],					
+		}
+	],
 }
