@@ -24,7 +24,6 @@
 			"bonusWeapon": "+2",
 			"weight": 3,
 			"dmg1": "1d6",
-			"dmg2": "1d4",
 			"dmgType": "S",
 			"property": [
 				"F"
