@@ -37,6 +37,8 @@
 					]
 				}
 			],
+			"bonusWeapon": "+2",
+			"reqAttune": true,
 			"source": "MagicItemArdorath"
 		}
 	]
