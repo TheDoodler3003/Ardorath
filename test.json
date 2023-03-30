@@ -1,0 +1,73 @@
+{
+   "_meta":{
+      "sources":[
+         {
+            "json":"MagicItemArdorath",
+            "abbreviation":"MIR",
+            "full":"Magic Item Ardorath",
+            "authors":[
+               "TheDoodler"
+            ],
+            "convertedBy":[
+               
+            ],
+            "version":"1"
+         }
+      ]
+   },
+   "item":[
+      {
+         "name":"Shadowstrike",
+         "type":"M",
+         "weapon":true,
+         "weaponCategory":"martial",
+         "rarity":"Rare",
+         "value":5000,
+         "weight":3,
+         "dmg1":"1d6",
+         "dmgType":"S",
+         "property":[
+            "F"
+         ],
+         "entries":[
+            {
+               "type":"entries",
+               "name":"Shadowclan's Weaponry",
+               "entries":[
+                  "This black steel shortsword has a unique mechanism that allows you to throw the blade half of the weapon, which then separates from the hilt and transforms into a dagger until it is reattached.",
+                  "Additionally, when you use the Shadowstrike to take the Attack action, you can use a bonus action to cast the spell {@spell Teleport} without expending a spell slot. Once you use this feature, you cannot use it again until you complete a short or long rest."
+               ]
+            }
+         ],
+         "source":"MagicItemArdorath"
+      },
+           {
+         "name":"Tiamat's Handmade Crossbow",
+         "type":"R",
+         "weapon":true,
+         "weaponCategory":"martial",
+         "rarity":"Rare",
+         "value":1000000000,
+         "weight":8,
+         "dmg1":"1d10",
+         "dmgType":"P",
+         "property":[
+           "LD",
+           "R",
+           "2H"
+         ],
+         "entries":[
+            {
+               "type":"entries",
+               "name":"Tiamat's Handiwork",
+               "entries":[
+                   "This ornate crossbow is said to have been crafted by the five-headed dragon goddess Tiamat herself, and it bears her mark on the stock. The crossbow functions as a +3 magical weapon and deals an additional 2d6 fire damage on a successful hit.",
+                 "Once per long rest, the wielder can call upon the power of Tiamat to grant themselves advantage on all attack rolls with the crossbow for 1 minute.",
+                 "Once per day, the wielder can use Dragon Breath (Chromatic as an action. The spell can be cast using the crossbow as the material component, and the type of damage dealt by the spell matches the additional fire damage dealt by the crossbow."
+               ]
+            }
+         ],
+         "source":"MagicItemArdorath"
+      }
+   ]
+}
